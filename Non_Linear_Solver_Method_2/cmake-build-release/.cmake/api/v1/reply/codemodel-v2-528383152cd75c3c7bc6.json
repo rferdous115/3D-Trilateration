@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Non_Linear_Solver_Method_2",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Non_Linear_Solver_Method_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Non_Linear_Solver_Method_2-Release-75a70c21e123b230d7ef.json",
+					"name" : "Non_Linear_Solver_Method_2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/rheinferdous/CLionProjects/Non_Linear_Solver_Method_2/cmake-build-release",
+		"source" : "/Users/rheinferdous/CLionProjects/Non_Linear_Solver_Method_2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

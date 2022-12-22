@@ -1,0 +1,3 @@
+/Users/rheinferdous/CLionProjects/Non_Linear_Solver_Method_2/cmake-build-release/CMakeFiles/Non_Linear_Solver_Method_2.dir
+/Users/rheinferdous/CLionProjects/Non_Linear_Solver_Method_2/cmake-build-release/CMakeFiles/edit_cache.dir
+/Users/rheinferdous/CLionProjects/Non_Linear_Solver_Method_2/cmake-build-release/CMakeFiles/rebuild_cache.dir
